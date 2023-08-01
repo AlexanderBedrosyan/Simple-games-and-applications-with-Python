@@ -16,3 +16,5 @@ The application is created to generate qrcodes and to save it in folder which is
 Libraries used: tkinter and qrcode (qrcode library should be install in terminal or by using the settings method)
 
 No pictures include.
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/92dff229-d65c-4ef1-8bd0-168c71db37fa)
