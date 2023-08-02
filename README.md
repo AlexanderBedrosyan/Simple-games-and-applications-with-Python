@@ -1,6 +1,19 @@
 # Simple-games-and-applications-with-Python
 In this repository there are codes for simple games and applications created with Python.
 
+## Login application with Tkinter. Simple app which is created without DB.
+
+Library used: tkinter
+
+Two pictures are used. They can be find in the folder in Github.
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/8168f1f5-dc9f-4871-a893-77ac4115462f)
+
+An example for second page:
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/606e1875-3ef0-4c9a-87f9-97d5f240d6f0)
+
+
 ## Password generator with Tkinter. Simple app which automatically generate unique passwords.
  
 Libraries used: tkinter and random (randit)
