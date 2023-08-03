@@ -45,3 +45,9 @@ Library used without installation: Tkinter
 Libraries used with installation: requests and bs4 
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/9b6296d8-430e-44b3-8903-8b55ed6e137c)
+
+## Tic Tac Toe with Tkinter.
+
+Simple game with tkinter with an unique view. Every button from each player is related with free box on the game screen. In the end the result would be shown.
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/75f7ee37-e6fe-4fbf-80ab-a0bb741077b4)
