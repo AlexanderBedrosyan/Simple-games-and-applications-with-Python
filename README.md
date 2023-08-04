@@ -59,3 +59,6 @@ Library used: Tkinter
 This application is created with Tkinter. There is chance to create more buttons for some quick search web sites. 
 
 Libraries used: tkinter and webbrowser
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/a50e929d-65d8-4f1b-962b-3896756afa53)
+
