@@ -50,4 +50,12 @@ Libraries used with installation: requests and bs4
 
 Simple game with tkinter with an unique view. Every button from each player is related with free box on the game screen. In the end the result would be shown.
 
+Library used: Tkinter
+
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/75f7ee37-e6fe-4fbf-80ab-a0bb741077b4)
+
+## Quick search with Tkinter.
+
+This application is created with Tkinter. There is chance to create more buttons for some quick search web sites. 
+
+Libraries used: tkinter and webbrowser
