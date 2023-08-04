@@ -62,3 +62,7 @@ Libraries used: tkinter and webbrowser
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/a50e929d-65d8-4f1b-962b-3896756afa53)
 
+An example when "Google" button is clicked:
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/4ac9ccfd-cb4b-4a1b-8532-fd3483dd3014)
+
