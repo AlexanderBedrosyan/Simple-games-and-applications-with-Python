@@ -3,11 +3,15 @@ In this repository there are codes for simple games and applications created wit
 
 ## Rock Paper Scissors with Tkinter
 
-The game is created with tkinter as it's used random/randit also for each round.
+The game is created with tkinter as it's used random/randit also for each round. There are 3 options for player as we know the rules of the game. The computer makes a random choice which is also from the noted 3 options. Then the result are going to be open in new window.
 
 Libraries used: tkinter and random
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/a431d712-56e5-4e36-9956-98e7edef3931)
+
+An example how the result is opened.
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/25e8f8d4-2df7-47c9-ab8b-5119f98c86dc)
 
 
 ## Login application with Tkinter. Simple app which is created without DB.
