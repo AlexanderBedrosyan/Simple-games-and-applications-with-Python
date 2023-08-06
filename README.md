@@ -11,6 +11,8 @@ Libraries used: tkinter and random
 
 An example how the result is opened.
 
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/25e8f8d4-2df7-47c9-ab8b-5119f98c86dc)
+
 
 ## Login application with Tkinter. Simple app which is created without DB.
 
