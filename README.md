@@ -1,6 +1,10 @@
 # Simple-games-and-applications-with-Python
 In this repository there are codes for simple games and applications created with Python.
 
+## Lyrics application with Tkinter
+
+The main view starting with 2 text boxes for "Author" and "Song name". When you typed and pressed button "Generate text", the application will open a website (textove.com) with the lyrics of the needed song.
+
 ## Rock Paper Scissors with Tkinter
 
 The game is created with tkinter as it's used random/randit also for each round. There are 3 options for player as we know the rules of the game. The computer makes a random choice which is also from the noted 3 options. Then the result are going to be open in new window.
