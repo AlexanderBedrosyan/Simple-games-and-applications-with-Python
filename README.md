@@ -9,6 +9,10 @@ Libraries used: webbrowser and tkinter
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/89b7bbcb-96d5-4c2f-b8e4-f64521496673)
 
+An example with the result
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/3dda9013-a345-4d1f-90c7-fc1676401956)
+
 
 ## Rock Paper Scissors with Tkinter
 
