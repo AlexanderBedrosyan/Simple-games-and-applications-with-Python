@@ -92,3 +92,11 @@ An example when "Google" button is clicked:
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/4ac9ccfd-cb4b-4a1b-8532-fd3483dd3014)
 
+## Application for comparing excel sheets with Tkinter
+
+In the beginning there are 4 open boxes - First File, Second File, First Column and Second Column. The boxes for the files are needed just to text the correct name of the files (they have to be in the same folder). In the other two boxes we are chosing which columns need to be compared. Then pressed button "Check for differences".
+
+Library used without installation: Tkinter
+
+Library used with installation: openpyxl
+
