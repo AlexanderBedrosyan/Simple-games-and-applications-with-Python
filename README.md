@@ -101,3 +101,8 @@ Library used without installation: Tkinter
 Library used with installation: openpyxl
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/f0a75742-cd85-491a-b879-23948529799b)
+
+An example for the result
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/e72d113d-9554-4945-b2b0-13c0bcdd0c35)
+
