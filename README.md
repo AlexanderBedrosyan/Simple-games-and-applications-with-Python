@@ -36,6 +36,10 @@ Library used with installation: forex_python
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/360ac61f-ba1b-4da2-b0bb-2d116f333841)
 
+An example for the error message
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/6a1d40fe-caf5-44f4-92c5-3cb595a8fcae)
+
 
 ## Login application with Tkinter. Simple app which is created without DB.
 
