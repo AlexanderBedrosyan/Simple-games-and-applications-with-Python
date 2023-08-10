@@ -26,6 +26,13 @@ An example how the result is opened.
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/25e8f8d4-2df7-47c9-ab8b-5119f98c86dc)
 
+## Currency convertor with Tkinter
+
+The application has two optional buttons "Currency" which include only part of the currencies (everyone can add more of them). If you use two equal currencies or for some reason used forbiden symbols, a message with an error will show.
+
+Library used without installation: tkinter
+
+Library used with installation: forex_python
 
 ## Login application with Tkinter. Simple app which is created without DB.
 
