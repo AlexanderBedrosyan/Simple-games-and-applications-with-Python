@@ -34,6 +34,9 @@ Library used without installation: tkinter
 
 Library used with installation: forex_python
 
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/360ac61f-ba1b-4da2-b0bb-2d116f333841)
+
+
 ## Login application with Tkinter. Simple app which is created without DB.
 
 Library used: tkinter
