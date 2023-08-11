@@ -124,3 +124,4 @@ An example for the result
 
 This application is created with Tkinter. Main functions of calculator included.
 
+Library: Tkinter
