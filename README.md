@@ -125,3 +125,5 @@ An example for the result
 This application is created with Tkinter. Main functions of calculator included.
 
 Library: Tkinter
+
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/bbaccbab-9c60-451d-86a0-1747057e0b42)
