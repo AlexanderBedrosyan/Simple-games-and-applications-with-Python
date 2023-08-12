@@ -63,6 +63,8 @@ Right player: Up and Down
 
 Library used: Turtle
 
+![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/571c6876-70d4-4c31-a090-cb2e0f2bdc64)
+
 
 ## Password generator with Tkinter. Simple app which automatically generate unique passwords.
  
