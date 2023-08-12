@@ -61,6 +61,8 @@ Left player: W and S
 
 Right player: Up and Down
 
+Library used: Turtle
+
 
 ## Password generator with Tkinter. Simple app which automatically generate unique passwords.
  
