@@ -53,6 +53,14 @@ An example for second page:
 
 ![image](https://github.com/AlexanderBedrosyan/Simple-games-and-applications-with-Python/assets/126572116/606e1875-3ef0-4c9a-87f9-97d5f240d6f0)
 
+## Ping Pomg game with Turtle
+
+This game has simple view which includes - bal, rectangles for players and score menu. Buttons for movements are:
+
+Left player: W and S
+
+Right player: Up and Down
+
 
 ## Password generator with Tkinter. Simple app which automatically generate unique passwords.
  
